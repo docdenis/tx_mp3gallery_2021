@@ -6,7 +6,7 @@ Mon projet est basé sur xpert-mp3-gallery (lien officiel) :<br>
 https://extensions.joomla.org/extension/xpert-mp3-gallery/<br>
 un plugin de "ThemeXpert" en licence GPLv2 or later<br> <br>
 
-<b>La mission que je me suis fixé, est de rendre le script compabible avec PHP 7.0 et 8.0 et le l'adapter à mes besoins personels :<p>
+<b>La mission que je me suis fixé, est de rendre le script compabible avec PHP 7.4.x et 8.0.x et le l'adapter à mes besoins personels :<p>
 Avoir sur mes pages une liste de fichiers MP3, et un player HTML5 et un titre lien pour ouvrir le MP3 dans une nouvelle fenêtre.<br>
 Le tout avec un plugin qui affiche l'ensemble des fichiers MP3 qui sont dans un dossier.</b></p>
 	
