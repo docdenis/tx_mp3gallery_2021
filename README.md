@@ -22,7 +22,7 @@ My project is based on xpert-mp3-gallery (official link) :<br>
 https://extensions.joomla.org/extension/xpert-mp3-gallery/<br>
 One plugin of "ThemeXpert" on GPLv2 or later licence.<br> <br>
 
-<b>The mission that I have set myself to do, is to make the script compatible with PHP 7.0 and 8.0 and to adapt it to my personal requirements which are the following :<br>
+<b>The mission that I have set myself to do, is to make the script compatible with PHP 7.4.x and 8.0.x and to adapt it to my personal requirements which are the following :<br>
 Have on my pages a list of mp3 tracks, and a HTML5 player and a link title to open the mp3 track in a new window.<br>
 All of that with a plugin that would showcase all tracks which are in a file.</b><br>
 	<br> <br>
