@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.1" type="plugin" group="content" method="upgrade">
-	<name>plg_content_tx_mp3gallery_2021</name>
+	<name>PLG_CONTENT_TX_MP3GALLERY_2021_NAME</name>
 	<author>ThemeXpert reviewed by doc_denis</author>
 	<creationDate>August 2021</creationDate>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
@@ -8,7 +8,7 @@
 	<authorEmail>shams.bd71@gmail.com</authorEmail>
 	<authorUrl>www.themexpert.com</authorUrl>
 	<version>1.0.1</version>
-	<description>PLG_TX_MP3GALLERY_2021</description>
+	<description>PLG_CONTENT_TX_MP3GALLERY_2021_DESc</description>
 	<files>
 		<filename plugin="tx_mp3gallery">tx_mp3gallery.php</filename>
 	</files>
