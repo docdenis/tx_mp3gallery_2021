@@ -1,9 +1,9 @@
 # tx_mp3gallery_2021
 Plugin Joomla avec un player simple pour lire l'ensemble des mp3 d'un dossier
 
-<b>/!\ probleme, un seul tag par page, je cherche la solution /!\ <br></b>
-dans le cas de tags multiple le 1er tag force un nombre de mp3 pour les suivants ! <br>
-c'est un bazard !!! <br>
+<b>/!\ probleme, un seul tag par page, je cherche une solution /!\ <br></b>
+ce qui se passe : dans le cas de tags multiples le 1er tag force un nombre de mp3 pour les suivants et ainsi de suite ! <br>
+si le 1er tag affiche 10 mp3 et que le second dossier n'en contiens que 5, il en affiche 10 avec les titres du précédent tag pour remplir les 10 lignes.<br>
 si vous avez une idée j'acoute, merci <br>
  <br>
 
